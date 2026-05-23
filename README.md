@@ -75,10 +75,3 @@ PostgreSQL, MySQL, Supabase, Firebase
 - GitHub: [github.com/AdityaBhosle07](https://github.com/AdityaBhosle07)
 - Email: [Adityabhosle954@gmail.com](mailto:Adityabhosle954@gmail.com)
 
-## GitHub stats
-
-![](https://github-readme-stats.vercel.app/api?username=Adityabhosle07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=Adityabhosle07&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityabhosle07&theme=dark&hide_border=false&layout=compact)
