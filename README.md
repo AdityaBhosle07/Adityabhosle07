@@ -4,36 +4,30 @@ Software Engineer building AI systems, backend services, and secure full stack a
 
 I’m especially interested in persistent memory for AI, intelligent automation, and systems that turn unstructured data into reliable workflows. My background in computer science and cybersecurity shapes how I build: I care about clarity, resilience, and designing for real-world failure modes.
 
-## Featured projects
+## Featured Projects
 
-### ContextBrain
+### [ContextBrain](https://github.com/AdityaBhosle07/contextbrain)
 Persistent graph-based memory for AI systems that preserves context across sessions.
 
 - Tracks concepts and relationships over time
 - Surfaces recurring themes and unresolved threads
 - Built with Python, Streamlit, spaCy, NetworkX, and JSON persistence
 
-[View Project](https://github.com/AdityaBhosle07/contextbrain)
-
-### LLM Comparison
+### [LLM Comparison](https://github.com/AdityaBhosle07/llm-comparison)
 A side-by-side evaluation project for comparing LLM behavior, outputs, and tradeoffs across prompts.
 
-- Helps inspect differences in quality, style, and response patterns
+- Compares differences in quality, style, and response patterns
 - Useful for prompt testing, model benchmarking, and workflow selection
-- Showcases practical evaluation thinking around AI systems
+- Highlights practical evaluation thinking around AI systems
 
-[View Project](https://github.com/AdityaBhosle07/llm-comparison)
+### [Clinical Agent](https://github.com/AdityaBhosle07/clinical-agent)
+An AI agent project focused on structured reasoning and workflow support in a clinical setting.
 
-### Clinical Agent
-An AI agent project focused on structured reasoning and workflow support in a clinical-style setting.
-
-- Explores agent-driven task handling in a domain where precision matters
+- Explores agent-driven task handling where precision matters
 - Highlights applied AI, workflow design, and structured decision support
-- Demonstrates interest in high-stakes, domain-specific AI systems
+- Reflects interest in high-stakes, domain-specific AI systems
 
-[View Project](https://github.com/AdityaBhosle07/clinical-agent)
-
-## Technical focus
+## Technical Focus
 
 - AI systems and intelligent automation
 - Backend engineering and API design
@@ -61,7 +55,7 @@ AWS, Docker, Kubernetes, GitHub Actions
 **Databases**  
 PostgreSQL, MySQL, Supabase, Firebase
 
-## Current interests
+## Current Interests
 
 - Persistent memory for AI applications
 - Agent infrastructure and orchestration
@@ -74,4 +68,3 @@ PostgreSQL, MySQL, Supabase, Firebase
 - LinkedIn: [linkedin.com/in/adityabhosle-x](https://www.linkedin.com/in/adityabhosle-x)
 - GitHub: [github.com/AdityaBhosle07](https://github.com/AdityaBhosle07)
 - Email: [Adityabhosle954@gmail.com](mailto:Adityabhosle954@gmail.com)
-
