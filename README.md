@@ -6,6 +6,13 @@ I’m especially interested in persistent memory for AI, intelligent automation,
 
 ## Featured Projects
 
+### [RiskFlow](https://github.com/AdityaBhosle07/riskflow)
+AI-powered risk decisioning platform for fintech merchant onboarding and KYB reviews.
+- Hybrid decisioning engine combining deterministic policy rules with LLM-powered risk analysis
+- Asynchronous workflow orchestration via Celery — intake, enrichment, rule engine, and decision service
+- Full audit trail for every state transition with immutable event logging for compliance traceability
+- Built with Flask, PostgreSQL, SQLAlchemy, Celery, Redis, OpenAI GPT-4o-mini, Docker Compose
+
 ### [ContextBrain](https://github.com/AdityaBhosle07/contextbrain)
 Persistent graph-based memory for AI systems that preserves context across sessions.
 
@@ -26,6 +33,16 @@ An AI agent project focused on structured reasoning and workflow support in a cl
 - Explores agent-driven task handling where precision matters
 - Highlights applied AI, workflow design, and structured decision support
 - Reflects interest in high-stakes, domain-specific AI systems
+
+### [Chirp — Full-Stack Security & Performance Audit](https://github.com/AdityaBhosle07/llm-web-refactoring-test-AdityaBhosle07)
+A timed code audit of a production TypeScript monorepo (Node.js, Drizzle ORM, gRPC, Turbo).
+- Replaced weak SHA-256 password hashing with bcrypt (cost factor 12) — critical security fix
+- Removed hardcoded JWT secret fallback to prevent authentication bypass
+- Eliminated N+1 query patterns on posts feed and bookmarks (95% DB query reduction)
+- Fixed Turborepo CI caching and developer tooling warnings
+- All 138 tests passing across 10 test suites after every change
+
+---
 
 ## Technical Focus
 
