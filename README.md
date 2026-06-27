@@ -1,8 +1,8 @@
 # Hi, I'm Aditya Bhosle 👋
 
-Software Engineer building AI infrastructure for people — systems that remember who you are, not just what you clicked.
+Software Engineer building AI infrastructure for people systems that remember who you are, not just what you clicked.
 
-I'm especially interested in persistent memory for AI, intelligent automation, and systems that turn unstructured data into reliable workflows. Currently exploring how AI infrastructure can power creative communities — not just enterprise pipelines.
+I'm especially interested in persistent memory for AI, intelligent automation, and systems that turn unstructured data into reliable workflows. Currently exploring how AI infrastructure can power creative communities not just enterprise pipelines.
 
 ## Featured Projects
 
@@ -23,7 +23,7 @@ AI-powered risk decisioning platform for fintech merchant onboarding and KYB rev
 - Hybrid decisioning engine combining deterministic policy rules with LLM-powered risk analysis
 - Asynchronous workflow orchestration via Celery — intake, enrichment, rule engine, and decision service
 - Full audit trail for every state transition with immutable event logging for compliance traceability
-- The evaluation logic here — ensuring AI outputs serve human decisions rather than replace them — applies anywhere AI meets individual identity
+- The evaluation logic here — ensuring AI outputs serve human decisions rather than replace them applies anywhere AI meets individual identity
 
 ### [Clinical Agent](https://github.com/AdityaBhosle07/clinical-agent)
 An AI agent focused on structured reasoning and workflow support in a clinical setting.
